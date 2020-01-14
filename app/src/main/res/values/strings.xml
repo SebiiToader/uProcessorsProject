@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project uProcessors</string>
+    <string name="dispozitive_bluetooth">Dispozitive bluetooth</string>
+    <string name="afiseaza_dispozitivele_bluetooth">Afiseaza dispozitivele bluetooth</string>
+    <string name="led_control">LED CONTROL</string>
+    <string name="deconecteaza_te">Deconecteaza-te</string>
+    <string name="led">LED</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="temp">-</string>
+    <string name="temperatura_in_timp_real">Temperatura in timp real</string>
+    <string name="temp_c">Temperatura in grade Celsius</string>
+    <string name="temp_f">Temperatura in grade Fahrenheit</string>
+</resources>
