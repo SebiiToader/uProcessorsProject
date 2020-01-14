@@ -1,5 +1,0 @@
-apply plugin: DownloadPlugin
-
-download {
-    server.uri = uri('https://gradle.org')
-}
